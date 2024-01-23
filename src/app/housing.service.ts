@@ -12,7 +12,7 @@ export class HousingService {
       "name":"Acme Fresh Start Housing",
       "city":"Chicago",
       "state":"IL",
-      "photo":"/assets/location-pin",
+      "photo":"/assets/rowan-heuvel-bjej8BY1JYQ-unsplash.jpg",
       "availableUnits":4,
       "wifi":true,
       "laundry":true
@@ -22,7 +22,7 @@ export class HousingService {
       "name":"A113 Transitional Housing",
       "city":"Santa Monica",
       "state":"CA",
-      "photo":"/assets/location-pin",
+      "photo":"/assets/frames-for-your-heart-vbSRUrNm3Ik-unsplash.jpg",
       "availableUnits":0,
       "wifi":false,
       "laundry":true
@@ -32,7 +32,7 @@ export class HousingService {
       "name":"A113 Transitional Housing",
       "city":"Santa Monica",
       "state":"CA",
-      "photo":"/assets/location-pin",
+      "photo":"/assets/bernadette-gatsby-bN_TkedaBuQ-unsplash.jpg",
       "availableUnits":0,
       "wifi":false,
       "laundry":true
@@ -42,7 +42,7 @@ export class HousingService {
       "name":"A113 Transitional Housing",
       "city":"Santa Monica",
       "state":"CA",
-      "photo":"/assets/location-pin",
+      "photo":"/assets/frames-for-your-heart-2d4lAQAlbDA-unsplash.jpg",
       "availableUnits":0,
       "wifi":false,
       "laundry":true
@@ -52,7 +52,7 @@ export class HousingService {
       "name":"A113 Transitional Housing",
       "city":"Santa Monica",
       "state":"CA",
-      "photo":"/assets/location-pin",
+      "photo":"/assets/grant-durr-8N6s3Fmw-h0-unsplash.jpg",
       "availableUnits":0,
       "wifi":false,
       "laundry":true
@@ -62,7 +62,7 @@ export class HousingService {
       "name":"A113 Transitional Housing",
       "city":"Santa Monica",
       "state":"CA",
-      "photo":"/assets/location-pin",
+      "photo":"/assets/r-architecture-0tKCSyLXqQM-unsplash.jpg",
       "availableUnits":0,
       "wifi":false,
       "laundry":true
@@ -72,7 +72,7 @@ export class HousingService {
       "name":"A113 Transitional Housing",
       "city":"Santa Monica",
       "state":"CA",
-      "photo":"/assets/location-pin",
+      "photo":"/assets/r-architecture-GGupkreKwxA-unsplash.jpg",
       "availableUnits":0,
       "wifi":false,
       "laundry":true
@@ -82,7 +82,7 @@ export class HousingService {
       "name":"A113 Transitional Housing",
       "city":"Santa Monica",
       "state":"CA",
-      "photo":"/assets/location-pin",
+      "photo":"/assets/r-architecture-wot0Q5sg91E-unsplash.jpg",
       "availableUnits":0,
       "wifi":false,
       "laundry":true
@@ -92,7 +92,7 @@ export class HousingService {
       "name":"A113 Transitional Housing",
       "city":"Santa Monica",
       "state":"CA",
-      "photo":"/assets/location-pin",
+      "photo":"/assets/stephan-bechert-yFV39g6AZ5o-unsplash.jpg",
       "availableUnits":0,
       "wifi":false,
       "laundry":true
@@ -102,7 +102,7 @@ export class HousingService {
       "name":"A113 Transitional Housing",
       "city":"Santa Monica",
       "state":"CA",
-      "photo":"/assets/location-pin",
+      "photo":"/assets/todd-kent-178j8tJrNlc-unsplash.jpg",
       "availableUnits":0,
       "wifi":false,
       "laundry":true
