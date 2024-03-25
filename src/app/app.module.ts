@@ -8,6 +8,7 @@ import { HousingLocationComponent } from './housing-location/housing-location.co
 import { ExampleComponent } from './example/example.component';
 import { DetailComponent } from './detail/detail.component';
 import { appRoutingProviders,routing } from './routes';
+import {ReactiveFormsModule } from '@angular/forms';
 
 
 @NgModule({
@@ -22,6 +23,7 @@ import { appRoutingProviders,routing } from './routes';
     BrowserModule,
     AppRoutingModule,
     routing,
+    ReactiveFormsModule,
   ],
   providers: [appRoutingProviders],
   bootstrap: [AppComponent]
