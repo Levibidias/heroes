@@ -18,6 +18,11 @@
     "@angular/platform-browser": "^15.0.0",
     "@angular/platform-browser-dynamic": "^15.0.0",
     "@angular/router": "^15.2.10",
+    "@types/gapi.auth2": "^0.0.60",
+    "@types/gapi.client": "^1.0.8",
+    "@types/gapi.client.gmail": "^1.0.5",
+    "google-api-client": "^2.1.0",
+    "google-api-javascript-client": "^0.1.0",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.12.0"
