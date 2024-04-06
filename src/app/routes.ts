@@ -16,6 +16,5 @@ const routeConfig:Routes = [
         title:'Detail Page'
     }
 ];
-export const appRoutingProviders: any[] = [];
 export const routing = RouterModule.forRoot(routeConfig);
 

@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-
+import {ReactiveFormsModule } from '@angular/forms';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
@@ -8,7 +8,6 @@ import { HousingLocationComponent } from './housing-location/housing-location.co
 import { ExampleComponent } from './example/example.component';
 import { DetailComponent } from './detail/detail.component';
 import { appRoutingProviders,routing } from './routes';
-import {ReactiveFormsModule } from '@angular/forms';
 
 
 @NgModule({
@@ -22,11 +21,12 @@ import {ReactiveFormsModule } from '@angular/forms';
   imports: [
     BrowserModule,
     AppRoutingModule,
+    ReactiveFormsModule,
     routing,
     ReactiveFormsModule,
     
   ],
-  providers: [appRoutingProviders],
+  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
